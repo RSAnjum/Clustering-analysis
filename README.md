@@ -7,10 +7,15 @@ Welcome to the Imtiaz Mall Data Science Project repository! This project focuses
 
 ## Table of Contents
 Introduction
+
 Module 1: Data Acquisition and Preprocessing
+
 Module 2: Exploratory Data Analysis (EDA)
+
 Module 3: Clustering Analysis
+
 Module 4: Comparison and Conclusion
+
 ## Introduction
 Imtiaz Mall, a prominent department store chain, has enlisted the expertise of a Senior Data Scientist (you!) to address declining sales and non-recurring customers in its electronics section. The project involves comprehensive data analysis, with a focus on exploring the data through various techniques and comparing the results of three clustering algorithms: K-Means, DBSCAN, and K-Means++.
 
